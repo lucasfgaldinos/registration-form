@@ -1,6 +1,9 @@
-📋 Registration Form - React + Vite + TailwindCSS
+<h1>📋 Registration Form - React + Vite + TailwindCSS</h1>
 
-Projeto de formulário de registro desenvolvido com React, Vite, TailwindCSS, ShadCN UI, React Hook Form e Zod. Criado com o objetivo de praticar e aprender tecnologias modernas de frontend, com foco em validação de formulários, acessibilidade e design responsivo.
+<h3>Projeto de formulário de registro desenvolvido com React, Vite, TailwindCSS, ShadCN UI, React Hook Form e Zod.
+  Criado com o objetivo de praticar e aprender tecnologias modernas de frontend, com foco em validação de formulários, acessibilidade e design responsivo.</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind)](https://skillicons.dev)
 
 <a href="https://lucasfgaldinos.github.io/registration-form/">Clique aqui para ver</a>
 
