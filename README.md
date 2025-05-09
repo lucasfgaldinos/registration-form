@@ -2,6 +2,8 @@
 
 Projeto de formulário de registro desenvolvido com React, Vite, TailwindCSS, ShadCN UI, React Hook Form e Zod. Criado com o objetivo de praticar e aprender tecnologias modernas de frontend, com foco em validação de formulários, acessibilidade e design responsivo.
 
+<a href="https://lucasfgaldinos.github.io/registration-form/">Clique aqui para ver</a>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
