@@ -7,6 +7,18 @@
 
 <a href="https://lucasfgaldinos.github.io/registration-form/">Clique aqui para ver</a>
 
+# Prints:
+
+<div>
+  <img height="400" src="./src/assets/desktop-dark.png" alt="Print desktop - theme dark" />
+  <img height="400" src="./src/assets/desktop-light.png" alt="Print desktop - theme light" />
+</div>
+
+<div>
+  <img height="500" src="./src/assets/mobile-dark.png" alt="Print mobile - theme dark" />
+  <img height="500" src="./src/assets/mobile-light.png" alt="Print mobile - theme light" />
+</div>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
